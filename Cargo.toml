@@ -1,8 +1,16 @@
 [package]
-name = "buongiornissimo-discord"
-version = "0.1.0"
+authors = ["Christian Visintin <christian.visintin@veeso.dev>"]
+categories = ["games"]
+description = "Buongiornissimo Discord bot"
 edition = "2021"
-publish = false
+homepage = "https://github.com/veeso/buongiornissimo-discord"
+include = ["src/**/*", "LICENSE", "README.md"]
+keywords = ["discord", "discord-bot", "buongiornissimo"]
+license = "MIT"
+name = "buongiornissimo-discord"
+readme = "README.md"
+repository = "https://github.com/veeso/buongiornissimo-discord"
+version = "0.1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
